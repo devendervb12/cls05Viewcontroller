@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="view.Home">
+    <Page title="Page1">
+       <content>
+          <Button text="Goto Page2" press="gotoSecondPage"/>
+       </content>
+    </Page>
+</mvc:View>
